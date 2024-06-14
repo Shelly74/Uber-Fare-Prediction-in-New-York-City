@@ -1,12 +1,4 @@
-# 🚖Project: Uber Fare Rate Prediction in New York City using Regression Models
-![uberfare](https://github.com/Shibli-Nomani/project--Uber-Fare-Prediction-in-New-York-City-/assets/101654553/28dcb15e-33d6-4d1a-80c9-15f356ba7e0b)
-
-
-👉 Google Colab Code: https://colab.research.google.com/drive/1H3pNjBhPNxVNt37EQMbkHRW_-k2zOkN7?usp=sharing
-
-👉 GitHub Code: https://github.com/Shibli-Nomani/project--Uber-Fare-Prediction-in-New-York-City-/blob/main/project_Uber_Fare_in_New_York_City_Dataset.ipynb
-
-👉 Kaggle Code: https://www.kaggle.com/code/shiblinomani/uber-fare-rate-prediction-in-new-york-city
+# 🚖Project: Uber Fare Rate Prediction in New York City using Regression Model:
 
 
 
@@ -15,9 +7,6 @@
 
 The project is about on world's largest taxi company Uber inc. In this project, we're looking to predict the fare for their future transactional cases. Uber delivers service to lakhs of customers daily. Now it becomes really important to manage their data properly to come up with new business ideas to get best results. Eventually, it becomes really importaant to estimate the fare prices accurately.
 The dataset is containing 200000 trips of users in New York City, USA
-
-📌 dataset link: https://www.kaggle.com/datasets/shiblinomani/uber-fare-newyorkcity
-
 
 ### 🤖 Machine Learning:
 A branch of AI where systems learn from data to make decisions or predictions without explicit programming.
@@ -115,4 +104,4 @@ mean_absolute_error, r2_score, explained_variance_score: Metrics for evaluating 
 Our KNN (K Nearest Neighbors) for Uber fare prediction shows good performance as compared to others. Through meticulous parameter tuning with GridSearchCV, we optimized the model to deliver better accurate fare estimates. Moving forward, future enhancements could include exploring additional features, added different models, fine tuning, training with higher infrastructure, integrating real-time data, and enhancing user experience with a user-friendly interface. 🚖🔍🚀
 ## Authors
 
-- [@LinkedIn Khan MD Shibli Nomani](https://www.linkedin.com/in/khan-md-shibli-nomani-45445612b/)
+- Shelly Garg
